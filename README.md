@@ -24,6 +24,6 @@
 실습을 진행하기 전에, 필요한 디렉토리를 만들고 파일을 준비합시다!
 
 1.  **실습 디렉토리 생성 및 이동:**
-    1) 랩 서버 접속 후 git pull https://github.com/jubilant-choi/HPC_Workshop.git
-    2) cd HPC_Workshop, chmod +x 0-setup.sh
-    3) bash 0-setup.sh 실행
+    1) 랩 서버 접속 후 `cd $SCRATCH; git pull https://github.com/jubilant-choi/HPC_Workshop.git`
+    2) `cd HPC_Workshop; chmod +x 0-setup.sh`
+    3) `bash 0-setup.sh` 실행
