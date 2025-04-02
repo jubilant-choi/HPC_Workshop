@@ -27,7 +27,7 @@
 ```bash
 # 랩서버 SCRATCH 디렉토리에서 시작한다고 가정합니다.
 cd $SCRATCH
-git clone <https://github.com/jubilant-choi/HPC_Workshop.git>
+git clone https://github.com/jubilant-choi/HPC_Workshop.git
 cd HPC_Workshop
 chmod +x 0-setup.sh
 bash 0-setup.sh
